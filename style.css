@@ -23,6 +23,10 @@ h1 {
     background-color: #04916b;
 }
 
+.carousel-item {
+    padding-top: 0.5%;
+}
+
 @media only screen and (max-width: 600px) {
     .carousel-inner {
     }
